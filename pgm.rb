@@ -142,5 +142,6 @@ dictionary = []
 end
 end
 
+
 @a = MyProgram.new
 @a.numletter(6686787825)
